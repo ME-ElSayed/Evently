@@ -11,11 +11,10 @@ import 'package:get/get.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-   await dotenv.load(fileName: ".env");
+  await dotenv.load(fileName: ".env");
   await Firebase.initializeApp();
   await AppBindings.init();
-
-  Get.put(ChangeLocalController(), permanent: true);
+Get.put(ChangeLocalController(), permanent: true);
   runApp(const MyApp());
 }
 
