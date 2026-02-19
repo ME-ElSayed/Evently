@@ -75,28 +75,24 @@ This project demonstrates production-level architecture, clean state management,
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/search_view.png" width="170">
-  <img src="screenshots/organized_events.png" width="170">
-  <img src="screenshots/create_event.png" width="170">
-  <img src="screenshots/event_details.png" width="170">
-  <img src="screenshots/edit_event_deatails.png" width="170">
-</p>
-
-<p align="center">
-  <img src="screenshots/map_view.png" width="170">
-  <img src="screenshots/dashboard.png" width="170">
-  <img src="screenshots/invites_view.png" width="170">
-  <img src="screenshots/managers_view.png" width="170">
-  <img src="screenshots/send_invite_view.png" width="170">
-</p>
-
-<p align="center">
-  <img src="screenshots/notfication_invites_view.png" width="170">
-  <img src="screenshots/qr_view.png" width="170">
-  <img src="screenshots/scan_qr.png" width="170">
-  <img src="screenshots/profile_view.png" width="170">
-  <img src="screenshots/edit_profile.png" width="170">
+  <img src="screenshots/search_view.png" width="150" />
+  <img src="screenshots/organized_events.png" width="150" />
+  <img src="screenshots/create_event.png" width="150" />
+  <img src="screenshots/event_details.png" width="150" />
+  <img src="screenshots/edit_event_deatails.png" width="150" />
+  <br/><br/>
+  <img src="screenshots/map_view.png" width="150" />
+  <img src="screenshots/dashboard.png" width="150" />
+  <img src="screenshots/invites_view.png" width="150" />
+  <img src="screenshots/managers_view.png" width="150" />
+  <img src="screenshots/send_invite_view.png" width="150" />
+  <br/><br/>
+  <img src="screenshots/notfication_invites_view.png" width="150" />
+  <img src="screenshots/qr_view.png" width="150" />
+  <img src="screenshots/scan_qr.png" width="150" />
+  <img src="screenshots/profile_view.png" width="150" />
+  <img src="screenshots/edit_profile.png" width="150" />
 </p>
