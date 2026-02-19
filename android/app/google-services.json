@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660995194772",
+    "project_id": "event-planner-notificati-63627",
+    "storage_bucket": "event-planner-notificati-63627.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660995194772:android:a56c9fd6594e2b26a99981",
+        "android_client_info": {
+          "package_name": "com.example.eventsmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewgCDWAZDUQReuMg43GEJh0aqFtYAU_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660995194772:android:da2461e9a759356aa99981",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewgCDWAZDUQReuMg43GEJh0aqFtYAU_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

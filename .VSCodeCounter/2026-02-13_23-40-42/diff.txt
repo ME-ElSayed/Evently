@@ -1,0 +1,91 @@
+Date : 2026-02-13 23:40:42
+Directory : e:\flutter projects\eventsmanager\lib
+Total : 38 files,  1249 codes, -35 comments, 134 blanks, all 1348 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         38 |      1,249 |        -35 |        134 |      1,348 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                         |         38 |      1,249 |        -35 |        134 |      1,348 |
+| core                                                                                                                      |          4 |        153 |          7 |         25 |        185 |
+| core\class                                                                                                                |          1 |          0 |          0 |          1 |          1 |
+| core\constants                                                                                                            |          1 |          6 |          0 |          2 |          8 |
+| core\functions                                                                                                            |          1 |          1 |          0 |          0 |          1 |
+| core\services                                                                                                             |          1 |        146 |          7 |         22 |        175 |
+| core\services\api                                                                                                         |          1 |        146 |          7 |         22 |        175 |
+| features                                                                                                                  |         34 |      1,096 |        -42 |        109 |      1,163 |
+| features\events                                                                                                           |         32 |      1,090 |        -42 |        111 |      1,159 |
+| features\events\data                                                                                                      |          8 |        526 |         -1 |         70 |        595 |
+| features\events\data\models                                                                                               |          7 |        236 |         -2 |         32 |        266 |
+| features\events\data\repo                                                                                                 |          1 |        290 |          1 |         38 |        329 |
+| features\events\presentation                                                                                              |         24 |        564 |        -41 |         41 |        564 |
+| features\events\presentation\manager                                                                                      |          7 |        333 |        -19 |         33 |        347 |
+| features\events\presentation\manager\editEvent                                                                            |          1 |         44 |          2 |          2 |         48 |
+| features\events\presentation\manager\eventAttendees                                                                       |          1 |         68 |          0 |         13 |         81 |
+| features\events\presentation\manager\eventDashboard                                                                       |          1 |         31 |          0 |          4 |         35 |
+| features\events\presentation\manager\eventInvites                                                                         |          1 |         24 |         -8 |         -5 |         11 |
+| features\events\presentation\manager\eventManagers                                                                        |          1 |         64 |          0 |         10 |         74 |
+| features\events\presentation\manager\scanQr                                                                               |          1 |         31 |         -5 |          4 |         30 |
+| features\events\presentation\manager\sendInvite                                                                           |          1 |         71 |         -8 |          5 |         68 |
+| features\events\presentation\view                                                                                         |         17 |        231 |        -22 |          8 |        217 |
+| features\events\presentation\view (Files)                                                                                 |          7 |        175 |        -19 |          7 |        163 |
+| features\events\presentation\view\widgets                                                                                 |         10 |         56 |         -3 |          1 |         54 |
+| features\notifications                                                                                                    |          1 |          6 |          0 |         -1 |          5 |
+| features\notifications\presentation                                                                                       |          1 |          6 |          0 |         -1 |          5 |
+| features\notifications\presentation\manager                                                                               |          1 |          6 |          0 |         -1 |          5 |
+| features\profileSettings                                                                                                  |          1 |          0 |          0 |         -1 |         -1 |
+| features\profileSettings\presentation                                                                                     |          1 |          0 |          0 |         -1 |         -1 |
+| features\profileSettings\presentation\manager                                                                             |          1 |          0 |          0 |         -1 |         -1 |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                  | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| e:\flutter projects\eventsmanager\lib\core\class\app_bindings.dart                                                        | Dart     |          0 |          0 |          1 |          1 |
+| e:\flutter projects\eventsmanager\lib\core\constants\event_state_list.dart                                                | Dart     |          6 |          0 |          2 |          8 |
+| e:\flutter projects\eventsmanager\lib\core\functions\show_message.dart                                                    | Dart     |          1 |          0 |          0 |          1 |
+| e:\flutter projects\eventsmanager\lib\core\services\api\api_service.dart                                                  | Dart     |        146 |          7 |         22 |        175 |
+| e:\flutter projects\eventsmanager\lib\features\events\data\models\event_attendee_model.dart                               | Dart     |         67 |          0 |          7 |         74 |
+| e:\flutter projects\eventsmanager\lib\features\events\data\models\event_invite_model.dart                                 | Dart     |         59 |          0 |          7 |         66 |
+| e:\flutter projects\eventsmanager\lib\features\events\data\models\event_manager_model.dart                                | Dart     |         36 |          0 |          3 |         39 |
+| e:\flutter projects\eventsmanager\lib\features\events\data\models\event_model.dart                                        | Dart     |         38 |         -3 |         11 |         46 |
+| e:\flutter projects\eventsmanager\lib\features\events\data\models\invite_role.dart                                        | Dart     |          0 |          0 |          1 |          1 |
+| e:\flutter projects\eventsmanager\lib\features\events\data\models\invite_status.dart                                      | Dart     |         30 |          1 |          3 |         34 |
+| e:\flutter projects\eventsmanager\lib\features\events\data\models\user_search_model.dart                                  | Dart     |          6 |          0 |          0 |          6 |
+| e:\flutter projects\eventsmanager\lib\features\events\data\repo\event_repo.dart                                           | Dart     |        290 |          1 |         38 |        329 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\manager\editEvent\edit_event_controller.dart           | Dart     |         44 |          2 |          2 |         48 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\manager\eventAttendees\event_attendess_controller.dart | Dart     |         68 |          0 |         13 |         81 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\manager\eventDashboard\event_dashboard_controller.dart | Dart     |         31 |          0 |          4 |         35 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\manager\eventInvites\event_invites_controller.dart     | Dart     |         24 |         -8 |         -5 |         11 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\manager\eventManagers\event_managers_controller.dart   | Dart     |         64 |          0 |         10 |         74 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\manager\scanQr\scan_qr_controller.dart                 | Dart     |         31 |         -5 |          4 |         30 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\manager\sendInvite\send_invite_controller.dart         | Dart     |         71 |         -8 |          5 |         68 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\dashboard_view.dart                               | Dart     |          4 |          0 |          0 |          4 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\edit_event_view.dart                              | Dart     |         24 |         17 |          2 |         43 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\event_attendees_view.dart                         | Dart     |         32 |        -11 |          0 |         21 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\event_invites_view.dart                           | Dart     |         28 |        -14 |         -1 |         13 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\event_managers_view.dart                          | Dart     |         29 |        -11 |          1 |         19 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\scan_qr_view.dart                                 | Dart     |         27 |          0 |          5 |         32 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\send_invite_view.dart                             | Dart     |         31 |          0 |          0 |         31 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\attendee_card.dart                        | Dart     |          8 |          0 |          0 |          8 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\attendees_list.dart                       | Dart     |          4 |         -1 |          0 |          3 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\event_image_pic.dart                      | Dart     |         14 |          0 |         -1 |         13 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\invite_card.dart                          | Dart     |         16 |          0 |          1 |         17 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\invites_list.dart                         | Dart     |          2 |         -1 |          0 |          1 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\managers_card.dart                        | Dart     |          5 |          0 |          0 |          5 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\managers_list.dart                        | Dart     |          5 |         -1 |          0 |          4 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\permission_selector.dart                  | Dart     |         -2 |          0 |          1 |         -1 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\user_card.dart                            | Dart     |          1 |          0 |          0 |          1 |
+| e:\flutter projects\eventsmanager\lib\features\events\presentation\view\widgets\user_search_list.dart                     | Dart     |          3 |          0 |          0 |          3 |
+| e:\flutter projects\eventsmanager\lib\features\notifications\presentation\manager\notifications_controller.dart           | Dart     |          6 |          0 |         -1 |          5 |
+| e:\flutter projects\eventsmanager\lib\features\profileSettings\presentation\manager\profile_settings_controller.dart      | Dart     |          0 |          0 |         -1 |         -1 |
+| Total                                                                                                                     |          |      1,249 |        -35 |        134 |      1,348 |
++---------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

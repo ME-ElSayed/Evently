@@ -1,0 +1,6 @@
+enum InviteRole {
+ATTENDEE,
+MANAGER,
+
+
+}
