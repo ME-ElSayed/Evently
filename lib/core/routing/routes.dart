@@ -43,7 +43,6 @@ import 'package:eventsmanager/features/onboarding/presentation/manager/onBoardin
 import 'package:eventsmanager/features/onboarding/presentation/view/onboarding_view.dart';
 import 'package:eventsmanager/features/profileSettings/presentation/view/edit_profile_view.dart';
 
-import 'package:get/get_navigation/src/routes/get_route.dart';
 import 'package:get/route_manager.dart';
 
 List<GetPage<dynamic>>? routes = [
@@ -125,7 +124,7 @@ List<GetPage<dynamic>>? routes = [
     name: AppRoutes.notificationsView,
     page: () => const NotificationsView(),
   ),
-    GetPage(
+  GetPage(
     name: AppRoutes.notificationsTabView,
     page: () => const NotificationsTabView(),
   ),
@@ -133,38 +132,32 @@ List<GetPage<dynamic>>? routes = [
     name: AppRoutes.dashBoard,
     page: () => const DashboardView(),
     binding: EventDashboardBinding(),
-   
   ),
-   GetPage(
+  GetPage(
     name: AppRoutes.eventAttendees,
     page: () => const EventAttendeesView(),
     binding: EventAttendessBinding(),
-   
   ),
-   GetPage(
+  GetPage(
     name: AppRoutes.eventManagers,
     page: () => const EventManagersView(),
     binding: EventManagersBinding(),
-   
   ),
-   GetPage(
+  GetPage(
     name: AppRoutes.eventInvites,
     page: () => const EventInvitesView(),
     binding: EventInvitesBinding(),
-   
   ),
 
   GetPage(
     name: AppRoutes.senInvite,
     page: () => const SendInviteView(),
     binding: SendInviteBinding(),
-   
   ),
 
   GetPage(
     name: AppRoutes.scanQrView,
     page: () => const ScanQrView(),
     binding: ScanQrBinding(),
-   
   ),
 ];

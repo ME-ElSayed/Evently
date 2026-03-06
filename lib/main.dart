@@ -48,6 +48,8 @@ class MyApp extends StatelessWidget {
               textScaler: TextScaler.linear(scale),
             ),
             child: GetMaterialApp(
+              defaultTransition: Transition.cupertino,
+              transitionDuration: Duration(milliseconds: 200),
               locale: localeController.language,
               theme: currentTheme, // Use the computed theme
               title: 'Evently',
