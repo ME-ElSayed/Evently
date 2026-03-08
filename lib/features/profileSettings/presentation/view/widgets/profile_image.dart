@@ -1,5 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/constants/app_image_asset.dart';
 import 'package:eventsmanager/features/auth/presentation/view/widgets/profile_avatar.dart';
 import 'package:flutter/material.dart';

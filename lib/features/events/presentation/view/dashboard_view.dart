@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/routing/routes_name.dart';
 import 'package:eventsmanager/features/events/presentation/manager/eventDashboard/event_dashboard_controller.dart';
 import 'package:eventsmanager/features/profileSettings/presentation/view/widgets/section.dart';

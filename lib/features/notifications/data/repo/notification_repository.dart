@@ -1,8 +1,8 @@
 // features/notifications/data/repo/notification_repo.dart
 
 import 'package:dartz/dartz.dart';
-import 'package:eventsmanager/core/services/api/api_exceptions.dart';
-import 'package:eventsmanager/core/services/api/api_service.dart';
+import 'package:eventsmanager/core/api/api_exceptions.dart';
+import 'package:eventsmanager/core/api/api_service.dart';
 import 'package:eventsmanager/features/notifications/data/models/notification_model.dart';
 import 'package:get/get.dart';
 

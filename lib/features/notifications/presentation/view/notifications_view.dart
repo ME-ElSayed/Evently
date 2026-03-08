@@ -1,5 +1,5 @@
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/no_events_body.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/pagination_loader.dart';
 import 'package:eventsmanager/features/notifications/presentation/manager/notification/notifications_controller.dart';

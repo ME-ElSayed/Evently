@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/constants/egypt_Governorates.dart';
 import 'package:eventsmanager/core/routing/routes_name.dart';
 import 'package:eventsmanager/features/events/presentation/manager/searchEvent/search_event_controller.dart';

@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/apptheme.dart';
+import 'package:eventsmanager/core/theme/apptheme.dart';
 import 'package:eventsmanager/core/services/shared_pref_service.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

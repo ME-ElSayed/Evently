@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/features/onboarding/presentation/manager/onBoardingController/on_boarding_controller.dart';
 import 'package:eventsmanager/features/onboarding/presentation/view/widgets/custom_slider.dart';
 import 'package:eventsmanager/features/onboarding/presentation/view/widgets/dot_controller.dart';

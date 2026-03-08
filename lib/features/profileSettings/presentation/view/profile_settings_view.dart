@@ -1,8 +1,8 @@
+import 'package:eventsmanager/core/api/api_status.dart';
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
 import 'package:eventsmanager/core/class/hide_nav_bar.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/routing/routes_name.dart';
-import 'package:eventsmanager/core/services/api/api_status.dart';
 import 'package:eventsmanager/features/profileSettings/presentation/manager/profile_settings_controller.dart';
 import 'package:eventsmanager/features/profileSettings/presentation/view/widgets/profile_image.dart';
 import 'package:eventsmanager/features/profileSettings/presentation/view/widgets/section.dart';

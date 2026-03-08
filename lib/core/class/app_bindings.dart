@@ -1,6 +1,6 @@
 import 'package:eventsmanager/core/routing/routes_name.dart';
-import 'package:eventsmanager/core/services/api/api_service.dart';
-import 'package:eventsmanager/core/services/api/dio_client.dart';
+import 'package:eventsmanager/core/api/api_service.dart';
+import 'package:eventsmanager/core/api/dio_client.dart';
 import 'package:eventsmanager/core/services/fcm_service.dart';
 import 'package:eventsmanager/core/services/shared_pref_service.dart';
 import 'package:eventsmanager/features/events/data/repo/event_repo.dart';

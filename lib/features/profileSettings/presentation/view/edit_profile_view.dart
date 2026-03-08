@@ -1,5 +1,5 @@
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/constants/app_image_asset.dart';
 import 'package:eventsmanager/core/constants/egypt_governorates.dart';
 import 'package:eventsmanager/core/utils/app_validator.dart';

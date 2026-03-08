@@ -1,5 +1,5 @@
 import 'package:eventsmanager/core/class/hide_nav_bar.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/features/events/presentation/view/attended_event_view.dart';
 import 'package:eventsmanager/features/events/presentation/view/create_event_view.dart';
 import 'package:eventsmanager/features/events/presentation/view/created_event_view.dart';

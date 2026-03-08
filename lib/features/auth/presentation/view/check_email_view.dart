@@ -1,5 +1,5 @@
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/utils/app_validator.dart';
 import 'package:eventsmanager/core/utils/validation_types.dart';
 import 'package:eventsmanager/features/auth/presentation/manager/checkEmail/check_email_controller.dart';

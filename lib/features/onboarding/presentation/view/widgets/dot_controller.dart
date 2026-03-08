@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/features/onboarding/data/model/on_boarding_info.dart';
 import 'package:eventsmanager/features/onboarding/presentation/manager/onBoardingController/on_boarding_controller.dart';
 import 'package:flutter/material.dart';

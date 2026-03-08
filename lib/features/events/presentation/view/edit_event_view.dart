@@ -1,5 +1,5 @@
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/constants/event_duration.dart';
 import 'package:eventsmanager/core/constants/event_state_list.dart';
 import 'package:eventsmanager/core/functions/is_event_static.dart';

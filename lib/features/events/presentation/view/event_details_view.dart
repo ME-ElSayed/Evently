@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:eventsmanager/core/api/api_status.dart';
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/constants/app_image_asset.dart';
-import 'package:eventsmanager/core/services/api/api_status.dart';
 import 'package:eventsmanager/features/events/data/models/event_model.dart';
 import 'package:eventsmanager/features/events/presentation/manager/eventDetails/event_details_controller.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/draggable_content.dart';

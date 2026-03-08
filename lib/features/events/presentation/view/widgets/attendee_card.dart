@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/functions/has_permission.dart';
 import 'package:eventsmanager/features/events/data/models/event_attendee_model.dart';
 import 'package:eventsmanager/features/events/data/models/event_model.dart';

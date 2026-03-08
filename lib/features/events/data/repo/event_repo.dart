@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:eventsmanager/core/services/api/api_exceptions.dart';
-import 'package:eventsmanager/core/services/api/api_service.dart';
+import 'package:eventsmanager/core/api/api_exceptions.dart';
+import 'package:eventsmanager/core/api/api_service.dart';
 import 'package:eventsmanager/features/events/data/models/event_attendee_model.dart';
 import 'package:eventsmanager/features/events/data/models/event_invite_model.dart';
 import 'package:eventsmanager/features/events/data/models/event_manager_model.dart';

@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/functions/format_time_stamp.dart';
 import 'package:eventsmanager/core/routing/routes_name.dart';
 import 'package:eventsmanager/features/notifications/data/models/notification_model.dart';

@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/utils/app_validator.dart';
 import 'package:eventsmanager/core/utils/validation_types.dart';
 import 'package:eventsmanager/shared/custome_text_form_field.dart';

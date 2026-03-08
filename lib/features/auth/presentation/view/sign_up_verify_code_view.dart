@@ -1,5 +1,5 @@
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/functions/show_message.dart';
 import 'package:eventsmanager/features/auth/presentation/manager/signupVerifyCode/signup_verify_code_controller.dart';
 import 'package:eventsmanager/features/auth/presentation/view/widgets/verification_pin.dart';

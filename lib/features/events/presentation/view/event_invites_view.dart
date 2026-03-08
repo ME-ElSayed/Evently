@@ -1,5 +1,5 @@
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/routing/routes_name.dart';
 import 'package:eventsmanager/features/events/presentation/manager/eventInvites/event_invites_controller.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/custom_app_bar.dart';

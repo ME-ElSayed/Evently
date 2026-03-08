@@ -5,8 +5,8 @@ import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:get/get.dart' hide Response, FormData, MultipartFile;
 
-import 'package:eventsmanager/core/services/api/api_exceptions.dart';
-import 'package:eventsmanager/core/services/api/api_error_handler.dart';
+import 'package:eventsmanager/core/api/api_exceptions.dart';
+import 'package:eventsmanager/core/api/api_error_handler.dart';
 import 'package:eventsmanager/core/services/shared_pref_service.dart';
 
 class DioClient extends GetxService {

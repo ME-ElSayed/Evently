@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/features/events/data/models/user_search_model.dart';
 import 'package:eventsmanager/features/profileSettings/presentation/view/widgets/profile_image.dart';
 import 'package:eventsmanager/shared/custom_text.dart';

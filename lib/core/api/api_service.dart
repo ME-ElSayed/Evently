@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:eventsmanager/core/services/api/api_exceptions.dart';
+import 'package:eventsmanager/core/api/api_exceptions.dart';
 import 'package:eventsmanager/core/services/shared_pref_service.dart';
 import 'package:get/get.dart' hide MultipartFile, FormData;
 import 'dio_client.dart';

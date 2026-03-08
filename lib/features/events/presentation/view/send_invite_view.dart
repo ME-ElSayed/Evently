@@ -1,5 +1,5 @@
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/functions/is_event_static.dart';
 import 'package:eventsmanager/features/events/data/models/invite_role.dart';
 import 'package:eventsmanager/features/events/presentation/manager/sendInvite/send_invite_controller.dart';

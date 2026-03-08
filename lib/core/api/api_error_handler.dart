@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:dio/dio.dart';
-import 'package:eventsmanager/core/services/api/api_exceptions.dart';
+import 'package:eventsmanager/core/api/api_exceptions.dart';
 
 class ApiErrorHandler {
   static ApiException handleError(dynamic error) {

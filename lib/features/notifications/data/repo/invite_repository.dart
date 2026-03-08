@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:eventsmanager/core/services/api/api_exceptions.dart';
-import 'package:eventsmanager/core/services/api/api_service.dart';
+import 'package:eventsmanager/core/api/api_exceptions.dart';
+import 'package:eventsmanager/core/api/api_service.dart';
 import 'package:eventsmanager/features/notifications/data/models/invite_notification_model.dart';
 import 'package:eventsmanager/features/notifications/data/models/notification_model.dart';
 import 'package:get/get_core/src/get_main.dart';

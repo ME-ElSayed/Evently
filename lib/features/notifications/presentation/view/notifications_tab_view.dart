@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/features/notifications/presentation/view/invites_view.dart';
 import 'package:eventsmanager/features/notifications/presentation/view/notifications_view.dart';
 import 'package:flutter/material.dart';

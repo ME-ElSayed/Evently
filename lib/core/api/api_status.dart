@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/services/api/api_exceptions.dart';
+import 'package:eventsmanager/core/api/api_exceptions.dart';
 
 enum ApiStatus {
   idle, // initial / none

@@ -1,7 +1,7 @@
+import 'package:eventsmanager/core/api/api_error_handler.dart';
+import 'package:eventsmanager/core/api/api_exceptions.dart';
+import 'package:eventsmanager/core/api/api_status.dart';
 import 'package:eventsmanager/core/functions/show_message.dart';
-import 'package:eventsmanager/core/services/api/api_error_handler.dart';
-import 'package:eventsmanager/core/services/api/api_exceptions.dart';
-import 'package:eventsmanager/core/services/api/api_status.dart';
 import 'package:eventsmanager/features/events/data/models/event_attendee_model.dart';
 import 'package:eventsmanager/features/events/data/models/event_model.dart';
 import 'package:eventsmanager/features/events/data/repo/event_repo.dart';

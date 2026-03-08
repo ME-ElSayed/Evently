@@ -1,6 +1,6 @@
 import 'package:eventsmanager/core/class/api_error_handling_view.dart';
 import 'package:eventsmanager/core/class/hide_nav_bar.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/constants/event_duration.dart';
 import 'package:eventsmanager/core/constants/payment_method_list.dart';
 import 'package:eventsmanager/core/routing/routes_name.dart';

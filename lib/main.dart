@@ -1,8 +1,8 @@
 import 'package:eventsmanager/core/class/app_bindings.dart';
-import 'package:eventsmanager/core/constants/app_colors.dart';
-import 'package:eventsmanager/core/constants/apptheme.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/localization/change_local.dart';
 import 'package:eventsmanager/core/routing/routes.dart';
+import 'package:eventsmanager/core/theme/apptheme.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

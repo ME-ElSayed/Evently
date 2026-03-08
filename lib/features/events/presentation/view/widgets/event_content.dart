@@ -1,4 +1,4 @@
-import 'package:eventsmanager/core/constants/app_colors.dart';
+import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/features/events/data/models/event_model.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/attendace_counter.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/event_action.dart';

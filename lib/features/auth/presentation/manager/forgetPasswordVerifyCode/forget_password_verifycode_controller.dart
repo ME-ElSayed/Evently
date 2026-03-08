@@ -1,9 +1,9 @@
 import 'dart:async';
 
+import 'package:eventsmanager/core/api/api_exceptions.dart';
+import 'package:eventsmanager/core/api/api_status.dart';
 import 'package:eventsmanager/core/functions/show_message.dart';
 import 'package:eventsmanager/core/routing/routes_name.dart';
-import 'package:eventsmanager/core/services/api/api_exceptions.dart';
-import 'package:eventsmanager/core/services/api/api_status.dart';
 import 'package:eventsmanager/features/auth/data/repo/auth_repo.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
