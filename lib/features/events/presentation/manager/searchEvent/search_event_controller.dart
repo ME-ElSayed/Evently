@@ -112,7 +112,7 @@ class SearchEventControllerImp extends PaginationController<EventModel> {
   /* ================= SEARCH ================= */
 
   void onSearchSubmit(String query) {
-    if (query.trim() == "") return;
+    if (query.trim() == "" || query.trim().length == 1) return;
     searchQuery.value = query.trim();
     fetchInitial();
   }
