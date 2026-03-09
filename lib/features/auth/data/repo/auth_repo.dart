@@ -3,13 +3,9 @@ import 'package:eventsmanager/core/api/api_exceptions.dart';
 import 'package:eventsmanager/core/api/api_service.dart';
 import 'package:get/get.dart';
 
-class AuthRepository extends GetxService {
-  late final ApiService _apiService;
+class AuthRepository  {
+  final ApiService _apiService = Get.find<ApiService>();
 
-  // Constructor injection
-  AuthRepository() {
-    _apiService = Get.find<ApiService>();
-  }
 
   // ==================== REGISTER ====================
 

@@ -36,7 +36,7 @@ class AppBindings {
 
   /// Initialize repositories lazily
   static void _initRepositories() {
-    Get.lazyPut<AuthRepository>(() => AuthRepository());
+    Get.lazyPut<AuthRepository>(() => AuthRepository(), fenix: true);
     Get.lazyPut<EventRepository>(() => EventRepositoryImpl(), fenix: true);
     Get.lazyPut<ProfileRepository>(() => ProfileRepositoryImpl(), fenix: true);
 
