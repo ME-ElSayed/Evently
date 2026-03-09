@@ -1,6 +1,7 @@
 import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/routing/routes_name.dart';
 import 'package:eventsmanager/features/events/data/models/event_model.dart';
+import 'package:eventsmanager/features/events/data/models/event_role.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/event_attendance.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/event_qr_code.dart';
 import 'package:eventsmanager/features/notifications/data/models/invite_notification_model.dart';

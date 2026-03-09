@@ -1,4 +1,4 @@
-import 'package:eventsmanager/features/events/data/models/event_model.dart';
+import 'package:eventsmanager/features/events/data/models/payment_method.dart';
 
 List<String> paymentMethodsList = [
   PaymentMethod.online.value,

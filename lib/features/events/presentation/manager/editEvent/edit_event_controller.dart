@@ -4,6 +4,8 @@ import 'package:eventsmanager/core/constants/egypt_governorates.dart';
 import 'package:eventsmanager/core/extensions/form_auth_scroll.dart';
 import 'package:eventsmanager/features/events/data/models/event_location_result.dart';
 import 'package:eventsmanager/features/events/data/models/event_model.dart';
+import 'package:eventsmanager/features/events/data/models/event_state.dart';
+import 'package:eventsmanager/features/events/data/models/event_visiblity.dart';
 import 'package:eventsmanager/features/events/data/repo/event_repo.dart';
 import 'package:eventsmanager/features/events/presentation/manager/createEvent/capacity_mixin.dart';
 import 'package:eventsmanager/features/events/presentation/manager/createEvent/date_time_picker_mixin.dart';

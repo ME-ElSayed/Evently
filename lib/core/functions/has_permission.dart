@@ -1,4 +1,4 @@
-import 'package:eventsmanager/features/events/data/models/event_model.dart';
+import 'package:eventsmanager/features/events/data/models/event_permission.dart';
 
 bool hasPermission(
   List<EventPermission> userPermissions,

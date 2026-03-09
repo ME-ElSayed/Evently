@@ -1,7 +1,6 @@
 import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/features/auth/presentation/view/widgets/text_above_field.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 

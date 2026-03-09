@@ -1,4 +1,5 @@
 import 'package:eventsmanager/features/events/data/models/event_model.dart';
+import 'package:eventsmanager/features/events/data/models/event_owner.dart';
 import 'package:eventsmanager/features/events/data/models/invite_status.dart';
 
 class InviteNotificationModel {

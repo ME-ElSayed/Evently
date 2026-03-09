@@ -1,7 +1,7 @@
 import 'package:eventsmanager/core/theme/app_colors.dart';
 import 'package:eventsmanager/core/functions/has_permission.dart';
 import 'package:eventsmanager/features/events/data/models/event_manager_model.dart';
-import 'package:eventsmanager/features/events/data/models/event_model.dart';
+import 'package:eventsmanager/features/events/data/models/event_permission.dart';
 import 'package:eventsmanager/features/events/presentation/manager/eventManagers/event_managers_controller.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/event_badge.dart';
 import 'package:eventsmanager/features/profileSettings/presentation/view/widgets/profile_image.dart';

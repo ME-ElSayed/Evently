@@ -1,5 +1,5 @@
 import 'package:eventsmanager/features/events/data/models/event_attendee_model.dart';
-import 'package:eventsmanager/features/events/data/models/event_model.dart';
+import 'package:eventsmanager/features/events/data/models/event_permission.dart';
 import 'package:eventsmanager/features/events/presentation/view/widgets/attendee_card.dart';
 import 'package:eventsmanager/features/notifications/presentation/view/widgets/notification_card_skeleton.dart';
 import 'package:flutter/material.dart';
