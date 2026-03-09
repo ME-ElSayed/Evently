@@ -2,5 +2,4 @@ enum InviteRole {
 ATTENDEE,
 MANAGER,
 
-
 }

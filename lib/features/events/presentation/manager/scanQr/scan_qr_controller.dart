@@ -1,9 +1,9 @@
 import 'package:eventsmanager/core/api/api_error_handler.dart';
 import 'package:eventsmanager/core/api/api_status.dart';
 import 'package:eventsmanager/features/events/data/models/event_model.dart';
+import 'package:eventsmanager/features/events/data/repo/event_repo.dart';
 import 'package:get/get.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
-import 'package:eventsmanager/features/events/data/repo/event_repo.dart';
 import 'package:eventsmanager/core/functions/show_message.dart';
 import 'package:flutter/material.dart';
 

@@ -4,6 +4,7 @@ import 'package:eventsmanager/core/api/dio_client.dart';
 import 'package:eventsmanager/core/services/fcm_service.dart';
 import 'package:eventsmanager/core/services/shared_pref_service.dart';
 import 'package:eventsmanager/features/events/data/repo/event_repo.dart';
+import 'package:eventsmanager/features/events/data/repo/event_repo_impl.dart';
 import 'package:eventsmanager/features/auth/data/repo/auth_repo.dart';
 import 'package:eventsmanager/features/notifications/data/repo/invite_repository.dart';
 import 'package:eventsmanager/features/notifications/data/repo/notification_repository.dart';
